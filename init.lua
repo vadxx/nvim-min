@@ -3,4 +3,5 @@ require('tweaks')
 
 require('plugins')
 require('core')
+require('keymaps')
 
